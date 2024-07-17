@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask kurimypyrogram related questions
+    url: https://stackoverflow.com/questions/tagged/kurimypyrogram
+    about: This place is only for reporting issues about kurimypyrogram. You can ask questions at StackOverflow.
+  - name: Join the Telegram channel
+    url: https://t.me/kurimypyrogram
+    about: Join the official channel and stay tuned for news, updates and announcements.
